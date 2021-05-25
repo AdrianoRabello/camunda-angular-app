@@ -19,7 +19,7 @@ export class GenericForm implements OnChanges {
   private rootViewContainer = null;
   private myAddonModule = null;
 
-  constructor(private factoryResolver: ComponentFactoryResolver) {
+  constructor(private factoryResolver: ComponentFactoryResolver) { 
 
   }
 
